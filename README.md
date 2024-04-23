@@ -1,8 +1,11 @@
 # Teste de Sistemas Operativos - Módulo 3
 
 Faz *fork* do repositório para teres a tua cópia.
+
 Preenche o ficheiro README diretamente no GitHub. A partir da página principal do repositório, clica em "Edit File" (ícone representando um lápis).
+
 Escreve as respostas dentro dos blocos correspondentes. Substitui as reticências pelo que é pedido em cada pergunta. Não desformates o documento.
+
 Quando acabares, carrega no botão "Commit Changes".
 
 ## Informação do aluno
@@ -58,27 +61,27 @@ Quando acabares, carrega no botão "Commit Changes".
 
 ## P2 - Indica, sequencialmnente, os comandos para realizar as seguintes instruções: (7.5v)
 
-  1. Criar um diretório com o nome "ex1", entrar no mesmo, e criar 3 ficheiros vazios com os nomes "f1", "f2", "f3". No fim, listar conteúdos do diretório atual.
+  1. Cria um diretório com o nome "ex1", entra no mesmo, e cria 3 ficheiros vazios com os nomes "f1", "f2", "f3". No fim, lista os conteúdos do diretório atual.
 
     Resposta:
     ...
     
-  2. Assumindo que estás no diretório "ex1", renomear os ficheiros "f1" e "f2" para que acabem com "_antigo", e criar cópias dos mesmos.
+  2. Assumindo que estás no diretório "ex1", renomeia os ficheiros "f1" e "f2" para que acabem com "_antigo", e cria cópias dos mesmos.
 
     Resposta:
     ...
 
-  3. Assumindo que estás no diretório "ex1", criar o diretório "ex2", e mover os ficheiros copiados no exercício anterior para o novo diretório. Seguidamente, apagar os ficheiros originais.
+  3. Assumindo que estás no diretório "ex1", cria o diretório "ex2", e move os ficheiros copiados no exercício anterior para o novo diretório. Seguidamente, apaga os ficheiros originais.
 
     Resposta:
     ...
 
-  4. Atualizar os repositórios de *packages* para garantir acesso às *packages* mais recentes, e instalar o serviço **htop**.
+  4. Atualiza os repositórios de *packages* para garantir acesso às *packages* mais recentes, e instala o serviço **htop**.
 
     Resposta:
     ...
 
-  5. Criar um novo utilizador com o teu primeiro nome, e com o diretório "/home/nome_de_utilizador". Mostrar informação do utilizador criado.
+  5. Cria um novo utilizador com o teu primeiro nome, e com o diretório "/home/nome_de_utilizador". Mostra a informação (ID) do utilizador criado.
 
     Resposta:
     ...
