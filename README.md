@@ -9,7 +9,7 @@ Quando acabares, carrega no botão "Commit Changes".
 
     Nome: ...
 
-## E1 - Para as seguintes questões, assinala a opção correta: (5v)
+## P1 - Para as seguintes questões, assinala a opção correta: (2.5v)
 
   1. Qual das seguintes afirmações caracteriza melhor um SO servidor?
 
@@ -56,29 +56,58 @@ Quando acabares, carrega no botão "Commit Changes".
     
     Resposta: ...
 
-## E2 - Indica os comandos para realizar as seguintes instruções: (9v)
+## P2 - Indica, sequencialmnente, os comandos para realizar as seguintes instruções: (7.5v)
 
-  1. Cria um diretório com o nome "exercício", entra no mesmo, e cria 3 ficheiros vazios com os nomes "f1", "f2", "f3". No fim, lista .
+  1. Criar um diretório com o nome "ex1", entrar no mesmo, e criar 3 ficheiros vazios com os nomes "f1", "f2", "f3". No fim, listar conteúdos do diretório atual.
 
-    Resposta: ...
+    Resposta:
+    ...
     
-  2. Atualiza os repositórios de *packages* para garantir acesso às *packages* mais recentes, e instala o serviço **htop**.
+  2. Assumindo que estás no diretório "ex1", renomear os ficheiros "f1" e "f2" para que acabem com "_antigo", e criar cópias dos mesmos.
 
-    Resposta: ...
+    Resposta:
+    ...
 
-  3. 
+  3. Assumindo que estás no diretório "ex1", criar o diretório "ex2", e mover os ficheiros copiados no exercício anterior para o novo diretório. Seguidamente, apagar os ficheiros originais.
 
-    Resposta: ...
+    Resposta:
+    ...
 
-  4. 
+  4. Atualizar os repositórios de *packages* para garantir acesso às *packages* mais recentes, e instalar o serviço **htop**.
 
-    Resposta: ...
+    Resposta:
+    ...
 
-  5. 
+  5. Criar um novo utilizador com o teu primeiro nome, e com o diretório "/home/nome_de_utilizador". Mostrar informação do utilizador criado.
 
-    Resposta: ...
+    Resposta:
+    ...
 
-## E2 - Responde às seguintes questões: (6v)
+## P3 - Realiza os seguintes exercícios, com respostas detalhadas: (6v)
 
+  1. Indica alguns aspetos que diferenciam um SO cliente de um SO servidor.
 
-    
+    Resposta:
+    ...
+     
+  2. Explica a importância de otimizar um sistema operativo servidor, com exemplos de técnicas para otimização.
+
+    Resposta:
+    ...
+
+  3. Descreve o processo de instalar e configurar um servidor web num SO servidor, incluindo as etapas necessárias.
+
+    Resposta:
+    ...
+
+## P4 - Indica os comandos **git** para realizar as seguintes operações: (4v)
+
+  1. Considera que estás no ramo 'master' de um repositório git criado localmente. Associa este repositório ao repositório remoto contido no url 'https://github.com/SO/OMeuRepositorioRemoto'. Altera o nome do ramo atual para 'main', e envia os *commits* já feitos localmente para o repositório remoto.
+
+    Resposta:
+    ...
+
+  2. Considera que estás na pasta raiz do teu repositório local, onde atualizaste um ficheiro de nome 'index.html'. Envia **apenas** esta atualização para o teu repositório remoto, com uma mensagem de commit apropriada.
+
+    Resposta:
+    ...
